@@ -2,7 +2,7 @@
 <img src="https://images.pexels.com/photos/7919/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500">
 🤟 Vous etes les bienvenues dans mon monde, celui du code 🤟
 
-Je me nomme Alex Balomog, je suis un <b> developpeur web fullstack junior </b> en quete de connaissances, \
+Je me nomme Alex Balomog, je suis un <b> developpeur web fullstack </b> en quete de connaissances, comme toujours )) \
   d'apprentissage et de partage :space_invader:
   
 ### Mes langages de prédilection
